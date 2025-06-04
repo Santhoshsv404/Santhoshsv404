@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Santhosh S V
-- 👀 I’m interested in and UI/UX,Graphic Designing.
+- 👀 I’m interested in and UI/UX,Graphic Designing and Web Development.
 - 📫 How to reach me ...
 santhoshsv404@gmail.com  
 
