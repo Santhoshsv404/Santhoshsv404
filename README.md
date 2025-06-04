@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Santhosh S V
-- 👀 I’m interested in Frontend Web Development and UI/UX Designing.
-- 🌱 I’m currently learning Java Full Stack Development.
+- 👀 I’m interested in and UI/UX,Graphic Designing.
 - 📫 How to reach me ...
 santhoshsv404@gmail.com  
 
